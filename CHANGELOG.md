@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0](https://github.com/tbishop9/home-assistant-qustodio/compare/v1.5.0...v1.6.0) (2026-06-12)
+
+
+### Features
+
+* add time remaining sensor including extra time ([d33265a](https://github.com/tbishop9/home-assistant-qustodio/commit/d33265a4333e556d745a54ac1bddd06650cd778e))
+
+
+### Bug Fixes
+
+* correct add_extra_time rrule and make extra time stack ([794ae4a](https://github.com/tbishop9/home-assistant-qustodio/commit/794ae4a4595f2a51c1086755e277b3955904eb89))
+
 ## [1.5.0](https://github.com/matt-richardson/home-assistant-qustodio/compare/v1.4.1...v1.5.0) (2026-06-07)
 
 
